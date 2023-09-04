@@ -1,0 +1,17 @@
+.span{
+    display: flex;
+    flex-direction: column;
+    gap: 0.25rem;
+}
+
+.span label{
+    font-weight: bolder;
+    font: inherit;
+    font-size: 0.75rem;
+    margin-left: 0.25rem;
+}
+
+.span input{
+    border-radius: 6px;
+    border: 1px solid #ccc;
+}
